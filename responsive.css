@@ -1,0 +1,15 @@
+@media (max-width:1000px){
+    .col-55,
+    .col-45{
+        width: 100%;
+        float: none;
+        margin: 0;
+    }
+    .logo-area{
+        text-align: center;
+    }
+    .body-area,
+    .footer{
+        padding: 10px;
+    }
+}
